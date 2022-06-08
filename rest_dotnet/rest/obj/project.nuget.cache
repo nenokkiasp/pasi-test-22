@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YddVWE5VnJU+Ar0SZX99tf9Ci0dB1wx6ztgzij/NpHJ1VWvXQ/63rHTzDp3py7g362RiL2A06j9JhkF4JazyOg==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/pasi-test-22/pasi-test-22/rest_dotnet/rest/rest.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/runner/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
